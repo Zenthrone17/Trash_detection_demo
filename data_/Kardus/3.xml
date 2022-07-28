@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Kardus</folder>
+	<filename>cardboard19(1).jpg</filename>
+	<path>D:\dataset try\windows_v1.8.0\Kardus\cardboard19(1).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>384</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Kardus</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>106</ymin>
+			<xmax>261</xmax>
+			<ymax>379</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Kardus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>28</xmin>
+			<ymin>2</ymin>
+			<xmax>511</xmax>
+			<ymax>382</ymax>
+		</bndbox>
+	</object>
+</annotation>
