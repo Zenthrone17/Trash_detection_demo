@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Gelas</folder>
+	<filename>glass14.jpg</filename>
+	<path>D:\dataset try\windows_v1.8.0\data_\Gelas\glass14.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>384</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Gelas</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>176</xmin>
+			<ymin>132</ymin>
+			<xmax>341</xmax>
+			<ymax>247</ymax>
+		</bndbox>
+	</object>
+</annotation>
